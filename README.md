@@ -1,2 +1,1 @@
-
-This is a simple color changing page based on DOM in javScript
+This is a JavaScript Background Color Switcher based on DOM 
